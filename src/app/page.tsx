@@ -9,7 +9,7 @@ const HomePage = () => {
           <div>
             <div>
               <div className='flex flex-col items-center justify-center mb-5'>
-                {/* sum icon */}
+                sum icon
                 <h2>Examples</h2>
                 </div>
                 <div className='space-y-2 '>
